@@ -91,6 +91,8 @@
 </div>
 </body>
 <script>
+
+//funçao limpar campos
 	function limparCampos() {
 		document.getElementById("userName").value = "";
 		document.getElementById("userLogin").value = "";
